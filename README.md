@@ -1,13 +1,13 @@
 # POST QUANTUM CRYPTOGRAPHY FRAMEWORK FOR IOT DEVICES
 
 
-This repository presents a comprehensive **Post-Quantum Cryptographic Framework** designed to secure Internet of Things (IoT) networks against quantum computing threats. It integrates **McEliece cryptography**, **AES-256 encryption**, and **physical-layer authentication techniques** like RF Fingerprinting and Physical Unclonable Functions (PUFs) to ensure robust, scalable, and energy-efficient IoT security.
+This repository offers a thorough  **Post-Quantum Cryptographic Framework** aimed at protecting Internet of Things (IoT) networks from quantum computing risks. It combines **McEliece cryptography**, **AES-256 encryption**, and **physical-layer authentication techniques** such as  RF Fingerprinting and Physical Unclonable Functions (PUFs) to provide strong, scalable, and energy-efficient security for IoT.
 
 ---
 
 ## Features
 
-- **Hybrid Cryptographic Framework**: Combines McEliece (quantum-resistant key exchange) with AES-256 (fast and secure encryption).
+- **Hybrid Cryptographic Framework**: Merges McEliece (quantum-resistant key exchange) with AES-256 (swift and secure encryption).
 - **Physical-Layer Security**:
   - RF Fingerprinting for device-specific authentication.
   - PUF-based authentication to counter hardware cloning attacks.
